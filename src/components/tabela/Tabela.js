@@ -33,9 +33,9 @@ function Tabela() {
           <td>Thornton</td>
           <td>@fat</td>
           <td>Z</td>
-        </tr>
+        </tr> 
         
-      </tbody>
+      </tbody> 
     </Table>
   );
 }
